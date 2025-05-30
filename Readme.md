@@ -7,4 +7,4 @@
 
 📹 Preview: [Full Video on YouTube](https://www.youtube.com/watch?v=fhdAnvhD6sw)
 
-![Preview](throw-ball-preview.png)
+![Preview](throw-ball.png)
